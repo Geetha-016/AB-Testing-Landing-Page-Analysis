@@ -1,5 +1,10 @@
 # A/B Testing Analysis: Evaluating Landing Page Performance
 
+
+![Conversion Rate Comparison](conversion_rate.png)
+
+*Figure 1: Comparison of conversion rates between the control (old page) and treatment (new page).*
+
 ## Project Overview
 
 This project analyzes the performance of a new website landing page using **A/B Testing**. The objective is to determine whether the new landing page leads to a higher conversion rate compared to the existing landing page.
