@@ -40,16 +40,17 @@ The dataset contains user-level information from an A/B testing experiment.
 
 ## Project Workflow
 
-1. Data Loading
-2. Data Understanding
-3. Data Cleaning
-4. Exploratory Data Analysis (EDA)
-5. Hypothesis Formulation
-6. Two-Proportion Z-Test
-7. Confidence Interval Analysis
-8. Business Recommendation
-9. Final Conclusion
-
+1. Importing Libraries 
+2. Data Loading
+3. Data Understanding
+4. Data Cleaning
+5. Exploratory Data Analysis (EDA)
+6. Hypothesis Formulation
+7. Statistical Hypothesis Testing
+8. Confidence Interval Analysis
+9. Experiment Summary
+10. Business Recommendation
+11. Final Conclusion
 ---
 
 ## Data Cleaning
